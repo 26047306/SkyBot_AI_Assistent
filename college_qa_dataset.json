@@ -1,0 +1,410 @@
+[
+  {
+    "question": " what is the admission process? (Q1)",
+    "answer": "Our admission process includes submitting the application, entrance exam, and required documents."
+  },
+  {
+    "question": "Is hostel facility available? (Q1)",
+    "answer": "Yes, we provide hostel facilities with mess, security, and Wi-Fi included."
+  },
+  {
+    "question": "When are exams conducted? (Q1)",
+    "answer": "Exams are usually held in May and December each year."
+  },
+  {
+    "question": "What courses are offered? (Q1)",
+    "answer": "We offer B.Tech, M.Tech, MBA, and Diploma courses in multiple streams."
+  },
+  {
+    "question": "What is the placement record? (Q1)",
+    "answer": "Our college has tie-ups with leading companies and a good placement record."
+  },
+  {
+    "question": "What is the annual fee for B.Tech? (Q1)",
+    "answer": "The annual fee for B.Tech is approximately ₹80,000."
+  },
+  {
+    "question": "How can I apply for admission? (Q1)",
+    "answer": "You can apply through our official website or by visiting the college campus."
+  },
+  {
+    "question": "Is there a scholarship program? (Q1)",
+    "answer": "Yes, scholarships are available based on merit and economic background."
+  },
+  {
+    "question": "Are there any entrance exams? (Q1)",
+    "answer": "Yes, students must appear for college-level or national-level entrance exams."
+  },
+  {
+    "question": "What is the college's official website? (Q1)",
+    "answer": "Our official website is www.oriental.ac.in."
+  },
+  {
+    "question": "What is the admission process? (Q2)",
+    "answer": "Our admission process includes submitting the application, entrance exam, and required documents."
+  },
+  {
+    "question": "Is hostel facility available? (Q2)",
+    "answer": "Yes, we provide hostel facilities with mess, security, and Wi-Fi included."
+  },
+  {
+    "question": "When are exams conducted? (Q2)",
+    "answer": "Exams are usually held in May and December each year."
+  },
+  {
+    "question": "What courses are offered? (Q2)",
+    "answer": "We offer B.Tech, M.Tech, MBA, and Diploma courses in multiple streams."
+  },
+  {
+    "question": "What is the placement record? (Q2)",
+    "answer": "Our college has tie-ups with leading companies and a good placement record."
+  },
+  {
+    "question": "What is the annual fee for B.Tech? (Q2)",
+    "answer": "The annual fee for B.Tech is approximately ₹80,000."
+  },
+  {
+    "question": "How can I apply for admission? (Q2)",
+    "answer": "You can apply through our official website or by visiting the college campus."
+  },
+  {
+    "question": "Is there a scholarship program? (Q2)",
+    "answer": "Yes, scholarships are available based on merit and economic background."
+  },
+  {
+    "question": "Are there any entrance exams? (Q2)",
+    "answer": "Yes, students must appear for college-level or national-level entrance exams."
+  },
+  {
+    "question": "What is the college's official website? (Q2)",
+    "answer": "Our official website is www.oriental.ac.in."
+  },
+  {
+    "question": "What is the admission process? (Q3)",
+    "answer": "Our admission process includes submitting the application, entrance exam, and required documents."
+  },
+  {
+    "question": "Is hostel facility available? (Q3)",
+    "answer": "Yes, we provide hostel facilities with mess, security, and Wi-Fi included."
+  },
+  {
+    "question": "When are exams conducted? (Q3)",
+    "answer": "Exams are usually held in May and December each year."
+  },
+  {
+    "question": "What courses are offered? (Q3)",
+    "answer": "We offer B.Tech, M.Tech, MBA, and Diploma courses in multiple streams."
+  },
+  {
+    "question": "What is the placement record? (Q3)",
+    "answer": "Our college has tie-ups with leading companies and a good placement record."
+  },
+  {
+    "question": "What is the annual fee for B.Tech? (Q3)",
+    "answer": "The annual fee for B.Tech is approximately ₹80,000."
+  },
+  {
+    "question": "How can I apply for admission? (Q3)",
+    "answer": "You can apply through our official website or by visiting the college campus."
+  },
+  {
+    "question": "Is there a scholarship program? (Q3)",
+    "answer": "Yes, scholarships are available based on merit and economic background."
+  },
+  {
+    "question": "Are there any entrance exams? (Q3)",
+    "answer": "Yes, students must appear for college-level or national-level entrance exams."
+  },
+  {
+    "question": "What is the college's official website? (Q3)",
+    "answer": "Our official website is www.oriental.ac.in."
+  },
+  {
+    "question": "What is the admission process? (Q4)",
+    "answer": "Our admission process includes submitting the application, entrance exam, and required documents."
+  },
+  {
+    "question": "Is hostel facility available? (Q4)",
+    "answer": "Yes, we provide hostel facilities with mess, security, and Wi-Fi included."
+  },
+  {
+    "question": "When are exams conducted? (Q4)",
+    "answer": "Exams are usually held in May and December each year."
+  },
+  {
+    "question": "What courses are offered? (Q4)",
+    "answer": "We offer B.Tech, M.Tech, MBA, and Diploma courses in multiple streams."
+  },
+  {
+    "question": "What is the placement record? (Q4)",
+    "answer": "Our college has tie-ups with leading companies and a good placement record."
+  },
+  {
+    "question": "What is the annual fee for B.Tech? (Q4)",
+    "answer": "The annual fee for B.Tech is approximately ₹80,000."
+  },
+  {
+    "question": "How can I apply for admission? (Q4)",
+    "answer": "You can apply through our official website or by visiting the college campus."
+  },
+  {
+    "question": "Is there a scholarship program? (Q4)",
+    "answer": "Yes, scholarships are available based on merit and economic background."
+  },
+  {
+    "question": "Are there any entrance exams? (Q4)",
+    "answer": "Yes, students must appear for college-level or national-level entrance exams."
+  },
+  {
+    "question": "What is the college's official website? (Q4)",
+    "answer": "Our official website is www.oriental.ac.in."
+  },
+  {
+    "question": "What is the admission process? (Q5)",
+    "answer": "Our admission process includes submitting the application, entrance exam, and required documents."
+  },
+  {
+    "question": "Is hostel facility available? (Q5)",
+    "answer": "Yes, we provide hostel facilities with mess, security, and Wi-Fi included."
+  },
+  {
+    "question": "When are exams conducted? (Q5)",
+    "answer": "Exams are usually held in May and December each year."
+  },
+  {
+    "question": "What courses are offered? (Q5)",
+    "answer": "We offer B.Tech, M.Tech, MBA, and Diploma courses in multiple streams."
+  },
+  {
+    "question": "What is the placement record? (Q5)",
+    "answer": "Our college has tie-ups with leading companies and a good placement record."
+  },
+  {
+    "question": "What is the annual fee for B.Tech? (Q5)",
+    "answer": "The annual fee for B.Tech is approximately ₹80,000."
+  },
+  {
+    "question": "How can I apply for admission? (Q5)",
+    "answer": "You can apply through our official website or by visiting the college campus."
+  },
+  {
+    "question": "Is there a scholarship program? (Q5)",
+    "answer": "Yes, scholarships are available based on merit and economic background."
+  },
+  {
+    "question": "Are there any entrance exams? (Q5)",
+    "answer": "Yes, students must appear for college-level or national-level entrance exams."
+  },
+  {
+    "question": "What is the college's official website? (Q5)",
+    "answer": "Our official website is www.oriental.ac.in."
+  },
+  {
+    "question": "What is the admission process? (Q6)",
+    "answer": "Our admission process includes submitting the application, entrance exam, and required documents."
+  },
+  {
+    "question": "Is hostel facility available? (Q6)",
+    "answer": "Yes, we provide hostel facilities with mess, security, and Wi-Fi included."
+  },
+  {
+    "question": "When are exams conducted? (Q6)",
+    "answer": "Exams are usually held in May and December each year."
+  },
+  {
+    "question": "What courses are offered? (Q6)",
+    "answer": "We offer B.Tech, M.Tech, MBA, and Diploma courses in multiple streams."
+  },
+  {
+    "question": "What is the placement record? (Q6)",
+    "answer": "Our college has tie-ups with leading companies and a good placement record."
+  },
+  {
+    "question": "What is the annual fee for B.Tech? (Q6)",
+    "answer": "The annual fee for B.Tech is approximately ₹80,000."
+  },
+  {
+    "question": "How can I apply for admission? (Q6)",
+    "answer": "You can apply through our official website or by visiting the college campus."
+  },
+  {
+    "question": "Is there a scholarship program? (Q6)",
+    "answer": "Yes, scholarships are available based on merit and economic background."
+  },
+  {
+    "question": "Are there any entrance exams? (Q6)",
+    "answer": "Yes, students must appear for college-level or national-level entrance exams."
+  },
+  {
+    "question": "What is the college's official website? (Q6)",
+    "answer": "Our official website is www.oriental.ac.in."
+  },
+  {
+    "question": "What is the admission process? (Q7)",
+    "answer": "Our admission process includes submitting the application, entrance exam, and required documents."
+  },
+  {
+    "question": "Is hostel facility available? (Q7)",
+    "answer": "Yes, we provide hostel facilities with mess, security, and Wi-Fi included."
+  },
+  {
+    "question": "When are exams conducted? (Q7)",
+    "answer": "Exams are usually held in May and December each year."
+  },
+  {
+    "question": "What courses are offered? (Q7)",
+    "answer": "We offer B.Tech, M.Tech, MBA, and Diploma courses in multiple streams."
+  },
+  {
+    "question": "What is the placement record? (Q7)",
+    "answer": "Our college has tie-ups with leading companies and a good placement record."
+  },
+  {
+    "question": "What is the annual fee for B.Tech? (Q7)",
+    "answer": "The annual fee for B.Tech is approximately ₹80,000."
+  },
+  {
+    "question": "How can I apply for admission? (Q7)",
+    "answer": "You can apply through our official website or by visiting the college campus."
+  },
+  {
+    "question": "Is there a scholarship program? (Q7)",
+    "answer": "Yes, scholarships are available based on merit and economic background."
+  },
+  {
+    "question": "Are there any entrance exams? (Q7)",
+    "answer": "Yes, students must appear for college-level or national-level entrance exams."
+  },
+  {
+    "question": "What is the college's official website? (Q7)",
+    "answer": "Our official website is www.oriental.ac.in."
+  },
+  {
+    "question": "What is the admission process? (Q8)",
+    "answer": "Our admission process includes submitting the application, entrance exam, and required documents."
+  },
+  {
+    "question": "Is hostel facility available? (Q8)",
+    "answer": "Yes, we provide hostel facilities with mess, security, and Wi-Fi included."
+  },
+  {
+    "question": "When are exams conducted? (Q8)",
+    "answer": "Exams are usually held in May and December each year."
+  },
+  {
+    "question": "What courses are offered? (Q8)",
+    "answer": "We offer B.Tech, M.Tech, MBA, and Diploma courses in multiple streams."
+  },
+  {
+    "question": "What is the placement record? (Q8)",
+    "answer": "Our college has tie-ups with leading companies and a good placement record."
+  },
+  {
+    "question": "What is the annual fee for B.Tech? (Q8)",
+    "answer": "The annual fee for B.Tech is approximately ₹80,000."
+  },
+  {
+    "question": "How can I apply for admission? (Q8)",
+    "answer": "You can apply through our official website or by visiting the college campus."
+  },
+  {
+    "question": "Is there a scholarship program? (Q8)",
+    "answer": "Yes, scholarships are available based on merit and economic background."
+  },
+  {
+    "question": "Are there any entrance exams? (Q8)",
+    "answer": "Yes, students must appear for college-level or national-level entrance exams."
+  },
+  {
+    "question": "What is the college's official website? (Q8)",
+    "answer": "Our official website is www.oriental.ac.in."
+  },
+  {
+    "question": "What is the admission process? (Q9)",
+    "answer": "Our admission process includes submitting the application, entrance exam, and required documents."
+  },
+  {
+    "question": "Is hostel facility available? (Q9)",
+    "answer": "Yes, we provide hostel facilities with mess, security, and Wi-Fi included."
+  },
+  {
+    "question": "When are exams conducted? (Q9)",
+    "answer": "Exams are usually held in May and December each year."
+  },
+  {
+    "question": "What courses are offered? (Q9)",
+    "answer": "We offer B.Tech, M.Tech, MBA, and Diploma courses in multiple streams."
+  },
+  {
+    "question": "What is the placement record? (Q9)",
+    "answer": "Our college has tie-ups with leading companies and a good placement record."
+  },
+  {
+    "question": "What is the annual fee for B.Tech? (Q9)",
+    "answer": "The annual fee for B.Tech is approximately ₹80,000."
+  },
+  {
+    "question": "How can I apply for admission? (Q9)",
+    "answer": "You can apply through our official website or by visiting the college campus."
+  },
+  {
+    "question": "Is there a scholarship program? (Q9)",
+    "answer": "Yes, scholarships are available based on merit and economic background."
+  },
+  {
+    "question": "Are there any entrance exams? (Q9)",
+    "answer": "Yes, students must appear for college-level or national-level entrance exams."
+  },
+  {
+    "question": "What is the college's official website? (Q9)",
+    "answer": "Our official website is www.oriental.ac.in."
+  },
+  {
+    "question": "What is the admission process? (Q10)",
+    "answer": "Our admission process includes submitting the application, entrance exam, and required documents."
+  },
+  {
+    "question": "Is hostel facility available? (Q10)",
+    "answer": "Yes, we provide hostel facilities with mess, security, and Wi-Fi included."
+  },
+  {
+    "question": "When are exams conducted? (Q10)",
+    "answer": "Exams are usually held in May and December each year."
+  },
+  {
+    "question": "What courses are offered? (Q10)",
+    "answer": "We offer B.Tech, M.Tech, MBA, and Diploma courses in multiple streams."
+  },
+  {
+    "question": "What is the placement record? (Q10)",
+    "answer": "Our college has tie-ups with leading companies and a good placement record."
+  },
+  {
+    "question": "What is the annual fee for B.Tech? (Q10)",
+    "answer": "The annual fee for B.Tech is approximately ₹80,000."
+  },
+  {
+    "question": "How can I apply for admission? (Q10)",
+    "answer": "You can apply through our official website or by visiting the college campus."
+  },
+  {
+    "question": "Is there a scholarship program? (Q10)",
+    "answer": "Yes, scholarships are available based on merit and economic background."
+  },
+  {
+    "question": "Are there any entrance exams? (Q10)",
+    "answer": "Yes, students must appear for college-level or national-level entrance exams."
+  },
+  {
+    "question": "What is the college's official website? (Q10)",
+    "answer": "Our official website is www.oriental.ac.in."
+  },
+  {
+    "question": "college name?",
+    "answer": "oriental college of technology, bhopal"
+  },
+  {
+    "question": "kitne student hai collage me?",
+    "answer": "almost 20000"
+  }
+]
