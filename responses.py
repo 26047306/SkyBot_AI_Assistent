@@ -2,7 +2,7 @@ import json
 import os
 import re
 import random
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 
 # === Load dataset ===
 file_path = os.path.join(os.path.dirname(__file__), "college_qa_dataset.json")
