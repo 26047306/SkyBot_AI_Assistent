@@ -1,7 +1,7 @@
 services:
   - type: web
     name: skyboat-chatbot
-    runtime: python
+    runtime: python-3.10.13
     buildCommand: ""
     startCommand: python app.py
     envVars:
