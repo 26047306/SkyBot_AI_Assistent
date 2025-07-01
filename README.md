@@ -13,6 +13,7 @@ SkyBot is an intelligent chatbot designed to help students and visitors learn ab
 - ⚙️ Easy to deploy on Render or any cloud platform
 
 ---
+![image](https://github.com/user-attachments/assets/6453adc7-a2c1-4299-96bb-9e1d6b5b9d83)
 
 ## 📁 Project Structure
 
@@ -159,4 +160,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 📧 [ravindrayadav4367@gmail.com](mailto:ravindrayadav4367@gmail.com)  
 🎓 B.Tech CSE (Data Science), Oriental College of Technology
 
-![image](https://github.com/user-attachments/assets/6453adc7-a2c1-4299-96bb-9e1d6b5b9d83)
