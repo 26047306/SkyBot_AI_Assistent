@@ -10,7 +10,7 @@ with open(file_path, "r", encoding="utf-8") as f:
     qa_data = json.load(f)
 
 # === Translator setup ===
-translator = Translator()
+translator = GoogleTranslator(source='auto', target='en')
 
 # === Clean user input ===
 def clean_text(text):
@@ -19,10 +19,8 @@ def clean_text(text):
 # === Get chatbot response ===
 def get_response(user_input):
     try:
-        # Translate Hindi to English if detected
-        lang = translator.detect(user_input).lang
-        if lang == 'hi':
-            user_input = translator.translate(user_input, src='hi', dest='en').text
+        # Translate to English (if not already)
+        user_input = translator.translate(user_input)
     except:
         pass  # Ignore translation errors silently
 
