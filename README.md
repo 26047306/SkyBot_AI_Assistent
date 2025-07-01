@@ -36,7 +36,7 @@ SkyBot_AI_Assistent/
 ## 🚀 Live Demo
 
 Deployed on Render:  
-👉 [https://skybot-ai-assistent-1.onrender.com/](#) *(replace with actual URL)*
+👉 [https://skybot-ai-assistent-1.onrender.com/](#) 
 
 ---
 
